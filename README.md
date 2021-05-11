@@ -34,3 +34,5 @@ Here are a few optional topics we can include depending on the scope of the proj
 - Deploying your API to the web
 
 Time permitting, we can also start working on the powerpoint templates used for the slides in the lessons.
+
+** Please do al of this work in a separate branch and create a pull request, just like the interview. **
