@@ -14,7 +14,7 @@ The following is NOT in scope for this course:
 
 This will be a video-course on Udemy / Skillshare, complete with quizzes and assignment. Each lesson will be comprised of a video about 10 minutes in length (some will be longer, some will be much shorter).
 
-Each lesson will comprise mostly of me walking through code, with a set of powerpoint slides to reinforce the core concepts. I have included a Demo.mov file in this repo of the test video I sent to Udemy as an example of what a typical lesson would look like (start with slides, but mostly walking through code).
+Each lesson will comprise mostly of me walking through code, with a set of powerpoint slides to reinforce the core concepts. I have included a demo file in https://drive.google.com/file/d/1Ul1m2AhgZMfxl5tFokGVUf8WYHdPoSb5/view?usp=sharing of the test video I sent to Udemy as an example of what a typical lesson would look like (start with slides, but mostly walking through code. Obviously a real lesson would be longer and contain more detail).
 
 I would also like the course to use practical examples where ever possible, to give our students the full confidence to build a real REST API by the end of the course.
 
@@ -36,5 +36,7 @@ Here are a few optional topics we can include depending on the scope of the proj
 - Deploying your API to the web
 
 Time permitting, we can also start working on the powerpoint templates used for the slides in the lessons.
+
+If you want to include any files beyond the Github file limit, please use the Google Drive: https://drive.google.com/drive/folders/1UcO3kR8Dfb0-JnlNTCE-VEDmqA-H-yff?usp=sharing
 
 **Please do al of this work in a separate branch and create a pull request, just like the interview.**
